@@ -1,7 +1,7 @@
 insert into Categoria (nome) values ('Bebidas');
 insert into Categoria (nome) values ('Carne');
 insert into Categoria (nome) values ('Verduras');
-insert into Categoria (nome) values ('Fruta');
+insert into Categoria (nome) values ('Frutas');
 insert into Categoria (nome) values ('Laticínios');
 insert into Categoria (nome) values ('Doces');
 insert into Categoria (nome) values ('Salgados');
