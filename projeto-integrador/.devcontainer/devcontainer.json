@@ -1,5 +1,5 @@
 {
-  "name": "Projeto Integrador",
+  "name": "projeto-integrador",
   "build": {
     "dockerfile": "Dockerfile"
   },
