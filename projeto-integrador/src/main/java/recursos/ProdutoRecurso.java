@@ -18,3 +18,4 @@ public class ProdutoRecurso {
         return Produto.listAll(Sort.ascending("nome"));
     }
 }
+
